@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/website/html/
+    - export DEPLOYPATH=C:/personal/website/html/
     - /bin/cp index.html $DEPLOYPATH
     
